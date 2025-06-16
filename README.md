@@ -6,6 +6,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome&fontSize=40&fontColor=E1E7EF&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Winter%20Elegance&descAlignY=55&descSize=15&descColor=94A3B8"/>
 
+<!-- Effetto neve -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
 [![Email](https://img.shields.io/badge/📧_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=7DD3FC&labelColor=1E293B)](mailto:failgamerit@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-0F172A?style=for-the-badge&logo=whatsapp&logoColor=7DD3FC&labelColor=1E293B)](https://wa.me/393515507405)
 
@@ -67,15 +72,26 @@ const profile = {
 ## 📊 Statistiche GitHub
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0F172A,1E293B&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTesauri&layout=compact&langs_count=8&theme=tokyonight&bg_color=0F172A,1E293B&title_color=7DD3FC&text_color=E1E7EF&border_color=334155"/>
 
-</div>
+<!-- Effetto neve tra le statistiche -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TobiasTesauri&theme=tokyonight&background=0F172A&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakNum=E1E7EF&sideNums=E1E7EF&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=94A3B8&border=334155)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTesauri&layout=compact&langs_count=8&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&border_color=334155&border_radius=10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTesauri&layout=compact&langs_count=8&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&border_color=334155&border_radius=10"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TobiasTesauri&theme=transparent&background=00000000&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakNum=E1E7EF&sideNums=E1E7EF&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=94A3B8&border=334155&border_radius=10">
+  <img src="https://streak-stats.demolab.com/?user=TobiasTesauri&theme=transparent&background=00000000&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakNum=E1E7EF&sideNums=E1E7EF&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=94A3B8&border=334155&border_radius=10"/>
+</picture>
 
 </div>
 
@@ -85,8 +101,18 @@ const profile = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=tokyonight&bg_color=0F172A,1E293B&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155)](https://github.com/TobiasTesauri/R.I.C.O)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=formaggi&theme=tokyonight&bg_color=0F172A,1E293B&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155)](https://github.com/TobiasTesauri/formaggi)
+<!-- Effetto neve sopra i progetti -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="80%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=formaggi&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=formaggi&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10"/>
+</picture>
 
 </div>
 
@@ -172,11 +198,17 @@ class LearningJourney:
 
 ### ⭐ Se i miei progetti ti interessano, lascia una stella! ⭐
 
+<!-- Effetto neve animato finale -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 **❄️ Grazie per aver visitato il mio profilo GitHub! ❄️**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=TobiasTesauri&color=7dd3fc&style=flat-square&label=Visite+Profilo)
+
+<!-- Effetto neve finale -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn"/>
 
