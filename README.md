@@ -2,14 +2,9 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&background=0F172A&center=true&vCenter=true&width=500&lines=❄️+Aspirante+Ingegnere+STEM;🧠+AI+%26+Computer+Vision+Enthusiast;💻+Autodidatta+e+Sviluppatore)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&background=0F172A&center=true&vCenter=true&width=500&lines=🎓+Aspirante+Ingegnere+STEM;🧠+AI+%26+Computer+Vision+Enthusiast;💻+Autodidatta+e+Sviluppatore)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome&fontSize=40&fontColor=E1E7EF&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Winter%20Elegance&descAlignY=55&descSize=15&descColor=94A3B8"/>
-
-<!-- Effetto neve personalizzato -->
-<div align="center">
-❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome&fontSize=40&fontColor=E1E7EF&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Innovation&descAlignY=55&descSize=15&descColor=94A3B8"/>
 
 [![Email](https://img.shields.io/badge/📧_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=7DD3FC&labelColor=1E293B)](mailto:failgamerit@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-0F172A?style=for-the-badge&logo=whatsapp&logoColor=7DD3FC&labelColor=1E293B)](https://wa.me/393515507405)
@@ -43,7 +38,7 @@ const profile = {
 
 <div align="center">
 
-### ❄️ Linguaggi di Programmazione
+### 💻 Linguaggi di Programmazione
 ![Python](https://img.shields.io/badge/🐍_Python-0F172A?style=for-the-badge&logo=python&logoColor=7DD3FC&labelColor=1E293B)
 ![Java](https://img.shields.io/badge/☕_Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=7DD3FC&labelColor=1E293B)
 ![JavaScript](https://img.shields.io/badge/⚡_JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=7DD3FC&labelColor=1E293B)
@@ -73,13 +68,6 @@ const profile = {
 
 <div align="center">
 
-<!-- Separatore con fiocchi di neve -->
-<div align="center">
-  
-❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
-
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10"/>
@@ -104,13 +92,6 @@ const profile = {
 ## 🚀 Progetti Principali
 
 <div align="center">
-
-<!-- Fiocchi di neve sopra i progetti -->
-<div align="center">
-  
-❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
-
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10">
@@ -154,14 +135,14 @@ const profile = {
 
 ---
 
-## 📈 Routine di Studio e Sviluppo
+## 📈 Metodologia di Studio
 
 <div align="center">
 
 ```python
 class LearningJourney:
     def __init__(self):
-        self.winter_mindset = "❄️ Precisione cristallina nel codice"
+        self.mindset = "💡 Precisione e innovazione nel codice"
         self.current_focus = [
             "📖 Studio teorico: Matematica, AI, Programmazione",
             "💻 Progetti pratici: Computer Vision e ML", 
@@ -171,14 +152,14 @@ class LearningJourney:
         
     def study_routine(self):
         return {
-            "theory_study": "❄️ Studio quotidiano di concetti teorici",
-            "hands_on_coding": "🧊 Implementazione pratica e progetti",
-            "research_time": "🌨️ Approfondimento di nuove tecnologie", 
-            "project_development": "⛄ Sviluppo continuo di soluzioni"
+            "theory_study": "📚 Studio quotidiano di concetti teorici",
+            "hands_on_coding": "⚡ Implementazione pratica e progetti",
+            "research_time": "🔍 Approfondimento di nuove tecnologie", 
+            "project_development": "🚀 Sviluppo continuo di soluzioni"
         }
         
     def learning_method(self):
-        return "🏔️ Approccio sistematico: teoria + pratica + innovazione"
+        return "🎯 Approccio sistematico: teoria + pratica + innovazione"
 ```
 
 </div>
@@ -187,7 +168,7 @@ class LearningJourney:
 
 ## 📞 Contatti
 
-*❄️ Interessato a collaborazioni, progetti condivisi o scambio di conoscenze? ❄️*
+*🤝 Interessato a collaborazioni, progetti condivisi o scambio di conoscenze?*
 
 <div align="center">
 
@@ -206,30 +187,14 @@ class LearningJourney:
 
 ### ⭐ Se i miei progetti ti interessano, lascia una stella! ⭐
 
-<!-- Tempesta di neve finale -->
-<div align="center">
-
-❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
-<br/>
-❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅
-<br/>
-❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
-
-</div>
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-**❄️ Grazie per aver visitato il mio profilo GitHub! ❄️**
+**🚀 Grazie per aver visitato il mio profilo GitHub!**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=TobiasTesauri&color=7dd3fc&style=flat-square&label=Visite+Profilo)
 
-<!-- Ultima nevicata -->
-<div align="center">
-❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn"/>
 
-*Ultimo aggiornamento: 10/06/2025*
+*Ultimo aggiornamento: 2025*
 
 </div>
