@@ -2,10 +2,12 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Aspirante+Ingegnere+STEM;AI+%26+Computer+Vision+Enthusiast;Autodidatta+e+Sviluppatore)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&background=0F172A&center=true&vCenter=true&width=500&lines=❄️+Aspirante+Ingegnere+STEM;🧠+AI+%26+Computer+Vision+Enthusiast;💻+Autodidatta+e+Sviluppatore)
 
-[![Email](https://img.shields.io/badge/📧_Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:failgamerit@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/393515507405)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome&fontSize=40&fontColor=E1E7EF&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Winter%20Elegance&descAlignY=55&descSize=15&descColor=94A3B8"/>
+
+[![Email](https://img.shields.io/badge/📧_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=7DD3FC&labelColor=1E293B)](mailto:failgamerit@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-0F172A?style=for-the-badge&logo=whatsapp&logoColor=7DD3FC&labelColor=1E293B)](https://wa.me/393515507405)
 
 </div>
 
@@ -36,27 +38,27 @@ const profile = {
 
 <div align="center">
 
-### Linguaggi di Programmazione
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### ❄️ Linguaggi di Programmazione
+![Python](https://img.shields.io/badge/🐍_Python-0F172A?style=for-the-badge&logo=python&logoColor=7DD3FC&labelColor=1E293B)
+![Java](https://img.shields.io/badge/☕_Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=7DD3FC&labelColor=1E293B)
+![JavaScript](https://img.shields.io/badge/⚡_JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=7DD3FC&labelColor=1E293B)
+![C#](https://img.shields.io/badge/🎯_C%23-0F172A?style=for-the-badge&logo=c-sharp&logoColor=7DD3FC&labelColor=1E293B)
+![C](https://img.shields.io/badge/🔧_C-0F172A?style=for-the-badge&logo=c&logoColor=7DD3FC&labelColor=1E293B)
 
-### AI/ML e Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-000000?style=for-the-badge&logo=ultralytics&logoColor=white)
+### 🧠 AI/ML e Computer Vision
+![TensorFlow](https://img.shields.io/badge/🤖_TensorFlow-1E293B?style=for-the-badge&logo=tensorflow&logoColor=7DD3FC&labelColor=0F172A)
+![PyTorch](https://img.shields.io/badge/🔥_PyTorch-1E293B?style=for-the-badge&logo=pytorch&logoColor=7DD3FC&labelColor=0F172A)
+![OpenCV](https://img.shields.io/badge/👁️_OpenCV-1E293B?style=for-the-badge&logo=OpenCV&logoColor=7DD3FC&labelColor=0F172A)
+![Ultralytics](https://img.shields.io/badge/⚡_Ultralytics-1E293B?style=for-the-badge&logo=ultralytics&logoColor=7DD3FC&labelColor=0F172A)
 
-### Sviluppo Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Sviluppo Web
+![HTML5](https://img.shields.io/badge/🏠_HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=7DD3FC&labelColor=1E293B)
+![CSS3](https://img.shields.io/badge/🎨_CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=7DD3FC&labelColor=1E293B)
 
-### Tools e Ambiente
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### 🛠️ Tools e Ambiente
+![Git](https://img.shields.io/badge/📚_Git-1E293B?style=for-the-badge&logo=git&logoColor=7DD3FC&labelColor=0F172A)
+![VS Code](https://img.shields.io/badge/💻_VS_Code-1E293B?style=for-the-badge&logo=visual-studio-code&logoColor=7DD3FC&labelColor=0F172A)
+![IntelliJ](https://img.shields.io/badge/🧠_IntelliJ-1E293B?style=for-the-badge&logo=intellij-idea&logoColor=7DD3FC&labelColor=0F172A)
 
 </div>
 
@@ -66,14 +68,14 @@ const profile = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTesauri&layout=compact&langs_count=8&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0F172A,1E293B&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTesauri&layout=compact&langs_count=8&theme=tokyonight&bg_color=0F172A,1E293B&title_color=7DD3FC&text_color=E1E7EF&border_color=334155"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TobiasTesauri&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TobiasTesauri&theme=tokyonight&background=0F172A&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakNum=E1E7EF&sideNums=E1E7EF&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=94A3B8&border=334155)](https://git.io/streak-stats)
 
 </div>
 
@@ -83,8 +85,8 @@ const profile = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=github_dark)](https://github.com/TobiasTesauri/R.I.C.O)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=formaggi&theme=github_dark)](https://github.com/TobiasTesauri/formaggi)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=tokyonight&bg_color=0F172A,1E293B&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155)](https://github.com/TobiasTesauri/R.I.C.O)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=formaggi&theme=tokyonight&bg_color=0F172A,1E293B&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155)](https://github.com/TobiasTesauri/formaggi)
 
 </div>
 
@@ -125,23 +127,24 @@ const profile = {
 ```python
 class LearningJourney:
     def __init__(self):
+        self.winter_mindset = "❄️ Precisione cristallina nel codice"
         self.current_focus = [
             "📖 Studio teorico: Matematica, AI, Programmazione",
-            "💻 Progetti pratici: Computer Vision e ML",
+            "💻 Progetti pratici: Computer Vision e ML", 
             "🔬 Sperimentazione: Algoritmi e implementazioni",
             "🛠️ Sviluppo: Applicazioni complete"
         ]
         
     def study_routine(self):
         return {
-            "theory_study": "Studio quotidiano di concetti teorici",
-            "hands_on_coding": "Implementazione pratica e progetti",
-            "research_time": "Approfondimento di nuove tecnologie",
-            "project_development": "Sviluppo continuo di soluzioni"
+            "theory_study": "❄️ Studio quotidiano di concetti teorici",
+            "hands_on_coding": "🧊 Implementazione pratica e progetti",
+            "research_time": "🌨️ Approfondimento di nuove tecnologie", 
+            "project_development": "⛄ Sviluppo continuo di soluzioni"
         }
         
     def learning_method(self):
-        return "Approccio pratico: teoria + implementazione + sperimentazione"
+        return "🏔️ Approccio sistematico: teoria + pratica + innovazione"
 ```
 
 </div>
@@ -150,9 +153,11 @@ class LearningJourney:
 
 ## 📞 Contatti
 
-*Interessato a collaborazioni, progetti condivisi o scambio di conoscenze?*
+*❄️ Interessato a collaborazioni, progetti condivisi o scambio di conoscenze? ❄️*
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Let's%20Code%20Together&fontSize=20&fontColor=E1E7EF&animation=fadeIn&fontAlignY=50"/>
 
 📧 **Email**: failgamerit@gmail.com  
 📱 **WhatsApp**: [+39 351 550 7405](https://wa.me/393515507405)
@@ -165,12 +170,16 @@ class LearningJourney:
 
 <div align="center">
 
-### ⭐ Se i miei progetti ti interessano, lascia una stella!
+### ⭐ Se i miei progetti ti interessano, lascia una stella! ⭐
 
-**Grazie per aver visitato il mio profilo GitHub!**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TobiasTesauri&color=blue&style=flat-square&label=Visite+Profilo)
+**❄️ Grazie per aver visitato il mio profilo GitHub! ❄️**
 
-*Ultimo aggiornamento: 2025*
+![Visitor Count](https://komarev.com/ghpvc/?username=TobiasTesauri&color=7dd3fc&style=flat-square&label=Visite+Profilo)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn"/>
+
+*Ultimo aggiornamento: Inverno 2025 ❄️*
 
 </div>
