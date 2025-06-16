@@ -1,202 +1,163 @@
-# ❄️ Ciao, sono Tobias Tesauri
+# 👋 Ciao, sono Tobias Tesauri
 
 <div align="center">
-  
-![Winter Coding](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B8860B&background=1E1E2E&center=true&vCenter=true&width=500&lines=❄️+Winter+Code+Wizard;🌙+Nocturnal+AI+Developer;☕+Coffee+%26+Neural+Networks;🔥+Cozy+Code+by+Fireplace)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20Cozy%20Corner&fontSize=40&fontColor=D4AF37&animation=twinkling&fontAlignY=35&desc=Where%20AI%20meets%20Winter%20Vibes&descAlignY=55&descSize=15"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Aspirante+Ingegnere+STEM;AI+%26+Computer+Vision+Enthusiast;Autodidatta+e+Sviluppatore)
 
-[![Email](https://img.shields.io/badge/📧_Email-2C3E50?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=1A1A2E)](mailto:failgamerit@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-16213E?style=for-the-badge&logo=whatsapp&logoColor=D4AF37&labelColor=1A1A2E)](https://wa.me/393515507405)
+[![Email](https://img.shields.io/badge/📧_Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:failgamerit@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/393515507405)
 
 </div>
 
 ---
 
-## 🕯️ Chi Sono
+## 🎓 Chi Sono
 
-*Nelle fredde notti invernali, mentre la neve cade silenziosamente, io creo intelligenza artificiale...*
+Appassionato autodidatta di **Intelligenza Artificiale** e **Computer Vision**, con l'obiettivo di intraprendere un percorso di studi STEM. Dedico gran parte del mio tempo allo studio autonomo e allo sviluppo di progetti pratici che combinano teoria e applicazioni concrete.
 
-Sviluppatore notturno specializzato in **Intelligenza Artificiale** e **Computer Vision**, con una passione particolare per il coding nelle ore piccole, accompagnato da una tazza fumante di caffè e il calore di un camino virtuale. La mia scrivania è illuminata solo dai bagliori dello schermo e dalle lucine natalizie che brillano tutto l'anno.
+Attraverso lo studio indipendente e la sperimentazione continua, sto costruendo una solida base di conoscenze in machine learning e computer vision, preparandomi per il futuro percorso universitario in ingegneria.
 
-> *"Il miglior codice nasce nel silenzio della notte, quando il mondo dorme e l'immaginazione è libera di volare"* ✨
-
-```javascript
-const winterDeveloper = {
+```python
+const profile = {
     name: "Tobias Tesauri",
-    location: "Italia 🇮🇹 (preferibilmente in montagna)",
-    workingHours: "🌙 Dalle 22:00 alle 4:00",
-    cozySetup: ["☕ Caffè caldo", "🕯️ Candele profumate", "🧶 Plaid di lana", "❄️ Vista sulla neve"],
-    specialization: ["🤖 AI/ML", "👁️ Computer Vision", "🌐 Full Stack Development"],
-    winterVibes: ["🔥 Fireplace Coding", "🎄 Christmas Lights", "☕ Hot Chocolate", "📚 Tech Books"],
-    currentlyLearning: ["🧠 Advanced Neural Networks", "☁️ Cloud Architecture", "❄️ Winter-themed AI"],
-    askMeAbout: ["YOLOv8", "Cozy Coding", "AI Implementation", "Night Owl Programming"]
+    location: "Italia 🇮🇹",
+    status: "Autodidatta appassionato",
+    aspiration: "Futuro studente STEM",
+    focus: ["🤖 Artificial Intelligence", "👁️ Computer Vision", "💻 Software Development"],
+    current_learning: ["🧠 Machine Learning", "📊 Data Science", "⚙️ Programming Fundamentals"],
+    study_method: "Autoapprendimento + Progetti pratici",
+    goal: "Eccellere negli studi STEM e specializzarmi in AI"
 };
 ```
 
 ---
 
-## 🎿 Stack Tecnologico Invernale
+## 🛠️ Stack Tecnologico
 
 <div align="center">
 
-### ❄️ Linguaggi che Scaldano il Cuore
-![Python](https://img.shields.io/badge/🐍_Python-2C3E50?style=for-the-badge&logo=python&logoColor=D4AF37&labelColor=1A1A2E)
-![Java](https://img.shields.io/badge/☕_Java-2C3E50?style=for-the-badge&logo=openjdk&logoColor=D4AF37&labelColor=1A1A2E)
-![JavaScript](https://img.shields.io/badge/⚡_JavaScript-2C3E50?style=for-the-badge&logo=javascript&logoColor=D4AF37&labelColor=1A1A2E)
-![C#](https://img.shields.io/badge/🎯_C%23-2C3E50?style=for-the-badge&logo=c-sharp&logoColor=D4AF37&labelColor=1A1A2E)
-![C](https://img.shields.io/badge/🔧_C-2C3E50?style=for-the-badge&logo=c&logoColor=D4AF37&labelColor=1A1A2E)
-![Assembly](https://img.shields.io/badge/⚙️_Assembly-2C3E50?style=for-the-badge&logo=assemblyscript&logoColor=D4AF37&labelColor=1A1A2E)
+### Linguaggi di Programmazione
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🤖 AI Magic nel Freddo della Notte
-![TensorFlow](https://img.shields.io/badge/🧠_TensorFlow-16213E?style=for-the-badge&logo=tensorflow&logoColor=D4AF37&labelColor=1A1A2E)
-![PyTorch](https://img.shields.io/badge/🔥_PyTorch-16213E?style=for-the-badge&logo=pytorch&logoColor=D4AF37&labelColor=1A1A2E)
-![OpenCV](https://img.shields.io/badge/👁️_OpenCV-16213E?style=for-the-badge&logo=OpenCV&logoColor=D4AF37&labelColor=1A1A2E)
-![YOLOv8](https://img.shields.io/badge/⚡_YOLOv8-16213E?style=for-the-badge&logo=yolo&logoColor=D4AF37&labelColor=1A1A2E)
-![Ultralytics](https://img.shields.io/badge/🎯_Ultralytics-16213E?style=for-the-badge&logo=ultralytics&logoColor=D4AF37&labelColor=1A1A2E)
+### AI/ML e Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-000000?style=for-the-badge&logo=ultralytics&logoColor=white)
 
-### 🌐 Tecnologie Web Accoglienti
-![HTML5](https://img.shields.io/badge/🏠_HTML5-2C3E50?style=for-the-badge&logo=html5&logoColor=D4AF37&labelColor=1A1A2E)
-![CSS3](https://img.shields.io/badge/🎨_CSS3-2C3E50?style=for-the-badge&logo=css3&logoColor=D4AF37&labelColor=1A1A2E)
-![ColdFusion](https://img.shields.io/badge/❄️_ColdFusion-2C3E50?style=for-the-badge&logo=adobe&logoColor=D4AF37&labelColor=1A1A2E)
+### Sviluppo Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Tools per Notti Produttive
-![Git](https://img.shields.io/badge/📚_Git-16213E?style=for-the-badge&logo=git&logoColor=D4AF37&labelColor=1A1A2E)
-![VS Code](https://img.shields.io/badge/💻_VS_Code-16213E?style=for-the-badge&logo=visual-studio-code&logoColor=D4AF37&labelColor=1A1A2E)
-![IntelliJ](https://img.shields.io/badge/🧠_IntelliJ-16213E?style=for-the-badge&logo=intellij-idea&logoColor=D4AF37&labelColor=1A1A2E)
+### Tools e Ambiente
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Statistiche da Camino Digitale
+## 📊 Statistiche GitHub
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&bg_color=0D1117,1A1A2E,16213E&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTesauri&layout=compact&langs_count=8&theme=gotham&bg_color=0D1117,1A1A2E,16213E&title_color=D4AF37&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTesauri&layout=compact&langs_count=8&theme=github_dark"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TobiasTesauri&theme=gotham&background=0D1117,1A1A2E,16213E&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=C9D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TobiasTesauri&theme=github-dark-blue)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎯 Progetti Scaldacuore
+## 🚀 Progetti Principali
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=gotham&bg_color=0D1117,1A1A2E,16213E&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37)](https://github.com/TobiasTesauri/R.I.C.O)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=formaggi&theme=gotham&bg_color=0D1117,1A1A2E,16213E&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37)](https://tobiastesauri.github.io/formaggi/)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=github_dark)](https://github.com/TobiasTesauri/R.I.C.O)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=formaggi&theme=github_dark)](https://github.com/TobiasTesauri/formaggi)
 
 </div>
 
-### 🏆 Creazioni Notturne
+### 🔬 Portfolio Progetti
 
-| Progetto | Descrizione | Tech Stack | Live Demo |
-|----------|-------------|------------|-----------|
-| **[🤖 R.I.C.O](https://github.com/TobiasTesauri/R.I.C.O)** | AI nata nelle notti invernali - Riconoscimento oggetti con YOLOv8 modificato | `🐍 Python` `🤖 YOLOv8` `👁️ Computer Vision` `🧠 Deep Learning` | - |
-| **[🧀 Formaggi Repository](https://tobiastesauri.github.io/formaggi/)** | Sito web caldo come una fonduta - Catalogazione formaggi con stile | `🏠 HTML5` `🎨 CSS3` `⚡ JavaScript` `📱 Responsive Design` | [🌐 Assaggia](https://tobiastesauri.github.io/formaggi/) |
+| Progetto | Descrizione | Tecnologie | Status |
+|----------|-------------|------------|---------|
+| **[🤖 R.I.C.O](https://github.com/TobiasTesauri/R.I.C.O)** | Sistema di riconoscimento oggetti basato su YOLOv8 personalizzato | `Python` `YOLOv8` `Computer Vision` `Deep Learning` | In sviluppo |
+| **[🌐 Formaggi Repository](https://tobiastesauri.github.io/formaggi/)** | Web application per catalogazione e ricerca formaggi | `HTML5` `CSS3` `JavaScript` `Responsive Design` | [Live Demo](https://tobiastesauri.github.io/formaggi/) |
 
 ---
 
-## 🔥 Filosofia del Coding Invernale
+## 🎯 Percorso di Autoapprendimento
+
+### 📚 Studio Autonomo
+- **Attuale**: Preparazione autonoma per l'ingresso nel mondo STEM
+- **Obiettivo**: Eccellere negli studi universitari futuri
+- **Specializzazione**: Sistemi intelligenti e computer vision
+
+### 🔬 Aree di Studio
+- **Machine Learning**: Algoritmi di apprendimento supervisionato e non supervisionato
+- **Computer Vision**: Object detection, image classification, image processing
+- **Deep Learning**: Reti neurali, CNN, architetture moderne
+- **Programming**: Sviluppo software e implementazione algoritmi
+
+### 💡 Competenze in Sviluppo
+- Implementazione pratica di algoritmi di ML
+- Sviluppo di progetti completi end-to-end
+- Comprensione teorica approfondita dei concetti
+- Capacità di problem-solving e debugging
+
+---
+
+## 📈 Routine di Studio e Sviluppo
 
 <div align="center">
 
 ```python
-class WinterCodingPhilosophy:
+class LearningJourney:
     def __init__(self):
-        self.ambiente = "🏔️ Chalet digitale con vista sulle montagne"
-        self.motto = "L'innovazione nasce dal calore della passione e dal freddo della logica"
-        self.principi_invernali = [
-            "❄️ Cool AI, Warm Heart",
-            "🔥 Passionate Development", 
-            "☕ Coffee-Driven Architecture",
-            "🌙 Nocturnal Innovation",
-            "🤝 Cozy Collaboration"
+        self.current_focus = [
+            "📖 Studio teorico: Matematica, AI, Programmazione",
+            "💻 Progetti pratici: Computer Vision e ML",
+            "🔬 Sperimentazione: Algoritmi e implementazioni",
+            "🛠️ Sviluppo: Applicazioni complete"
         ]
-        self.setup_perfetto = {
-            "temperature": "18°C (perfetta per il cervello)",
-            "lighting": "Soft warm LEDs + Christmas lights",
-            "soundtrack": "Lo-fi hip hop + crackling fireplace",
-            "fuel": "Endless coffee + hot chocolate"
-        }
-    
-    def get_winter_approach(self):
+        
+    def study_routine(self):
         return {
-            "clean_code": "Codice pulito come neve fresca",
-            "testing": "TDD caldo come il camino",
-            "ai_integration": "ML che scalda il cuore",
-            "continuous_learning": "Sempre curiosi come bambini sulla neve"
+            "theory_study": "Studio quotidiano di concetti teorici",
+            "hands_on_coding": "Implementazione pratica e progetti",
+            "research_time": "Approfondimento di nuove tecnologie",
+            "project_development": "Sviluppo continuo di soluzioni"
         }
-    
-    def night_owl_wisdom(self):
-        return "Le migliori idee arrivano quando il mondo dorme e la mente è libera ✨"
-```
-
-</div>
-
-> *"Nel silenzio della notte invernale, tra fiocchi di neve e righe di codice, nasce la magia dell'intelligenza artificiale"* 🌨️
-
----
-
-## ❄️ Fun Facts & Cozy Interests
-
-<div align="center">
-
-```python
-class CozyTobiasTesauri:
-    def __init__(self):
-        self.name = "Tobias Tesauri"
-        self.preferred_season = "Inverno ❄️"
-        self.coffee_cups_per_day = "∞ (specialmente nelle notti fredde)"
-        self.favorite_technologies = ["🐍 Python", "🤖 YOLOv8", "🧠 Neural Networks"]
-        self.debugging_philosophy = "🦆 Rubber Duck + 🔥 Fireplace + 🎄 Christmas Vibes"
-        self.current_obsession = "Computer Vision sotto la neve"
-        self.coding_playlist = ["Lo-fi beats", "Fireplace sounds", "Winter ambient"]
         
-    def get_winter_superpower(self):
-        return "Trasformare pixel gelidi in intelligenza artificiale calda 🔥"
-        
-    def cozy_activities(self):
-        return {
-            "🎮": "Gaming with hot cocoa",
-            "🤖": "AI Research by candlelight", 
-            "🧀": "Cheese & Wine tasting (obviously!)",
-            "📚": "Tech books + fireplace",
-            "🏂": "Skiing algorithms down data slopes",
-            "🎄": "Decorating code with elegant solutions",
-            "☕": "Coffee cupping & neural network training"
-        }
-    
-    def winter_coding_motto(self):
-        return "❄️ Code. Warm up. Innovate. Repeat. 🔥"
-        
-    def perfect_coding_night(self):
-        return "Snow falling outside 🌨️ + Warm room inside 🏠 + Endless coffee ☕ + Beautiful code 💻"
+    def learning_method(self):
+        return "Approccio pratico: teoria + implementazione + sperimentazione"
 ```
 
 </div>
 
 ---
 
-## 🕯️ Contattami nel Mio Rifugio Digitale
+## 📞 Contatti
 
-*Nelle lunghe notti invernali, sono sempre sveglio a creare il futuro... Scrivetemi!*
+*Interessato a collaborazioni, progetti condivisi o scambio di conoscenze?*
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&customColorList=6,11,20&height=100&section=footer&text=Let's%20Create%20Magic%20Together&fontSize=20&fontColor=D4AF37&animation=twinkling&fontAlignY=50"/>
 
 📧 **Email**: failgamerit@gmail.com  
 📱 **WhatsApp**: [+39 351 550 7405](https://wa.me/393515507405)
 
-### 💬 *"Hai un'idea che scalda il cuore? Condividiamola davanti al camino digitale!"* 🔥
+### 💬 Aperto a discussioni su AI, programmazione e innovazione tecnologica
 
 </div>
 
@@ -204,17 +165,12 @@ class CozyTobiasTesauri:
 
 <div align="center">
 
-### ⭐ Se i miei progetti ti scaldano il cuore, lascia una stella!
+### ⭐ Se i miei progetti ti interessano, lascia una stella!
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+**Grazie per aver visitato il mio profilo GitHub!**
 
-**Grazie per aver visitato il mio accogliente rifugio digitale! 🏔️✨**
+![Visitor Count](https://komarev.com/ghpvc/?username=TobiasTesauri&color=blue&style=flat-square&label=Visite+Profilo)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TobiasTesauri&color=gold&style=flat-square&label=Visitatori+del+Rifugio)
-[![Profile Views](https://visitcount.itsvg.in/api?id=TobiasTesauri&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-*Ultimo aggiornamento: Inverno 2025 ❄️*
+*Ultimo aggiornamento: 2025*
 
 </div>
