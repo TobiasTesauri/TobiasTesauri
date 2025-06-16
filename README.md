@@ -6,9 +6,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome&fontSize=40&fontColor=E1E7EF&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Winter%20Elegance&descAlignY=55&descSize=15&descColor=94A3B8"/>
 
-<!-- Effetto neve -->
+<!-- Effetto neve personalizzato -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
 </div>
 
 [![Email](https://img.shields.io/badge/📧_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=7DD3FC&labelColor=1E293B)](mailto:failgamerit@gmail.com)
@@ -73,8 +73,12 @@ const profile = {
 
 <div align="center">
 
-<!-- Effetto neve tra le statistiche -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+<!-- Separatore con fiocchi di neve -->
+<div align="center">
+  
+❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10">
@@ -101,8 +105,12 @@ const profile = {
 
 <div align="center">
 
-<!-- Effetto neve sopra i progetti -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="80%" />
+<!-- Fiocchi di neve sopra i progetti -->
+<div align="center">
+  
+❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10">
@@ -198,8 +206,16 @@ class LearningJourney:
 
 ### ⭐ Se i miei progetti ti interessano, lascia una stella! ⭐
 
-<!-- Effetto neve animato finale -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!-- Tempesta di neve finale -->
+<div align="center">
+
+❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
+<br/>
+❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅
+<br/>
+❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
+
+</div>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -207,8 +223,10 @@ class LearningJourney:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=TobiasTesauri&color=7dd3fc&style=flat-square&label=Visite+Profilo)
 
-<!-- Effetto neve finale -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!-- Ultima nevicata -->
+<div align="center">
+❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️ ❅ ❄️
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn"/>
 
