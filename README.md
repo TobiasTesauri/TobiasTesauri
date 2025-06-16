@@ -230,6 +230,6 @@ class LearningJourney:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn"/>
 
-*Ultimo aggiornamento: Inverno 2025 ❄️*
+*Ultimo aggiornamento: 10/06/2025*
 
 </div>
