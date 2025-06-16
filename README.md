@@ -2,9 +2,10 @@
 
 <div align="center">
   
-![Coding](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Code+Enthusiast)
+![Coding](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Computer+Vision;Problem+Solver;Code+Enthusiast;Innovation+Driven)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:failgamerit@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/393515507405)
 
 </div>
 
@@ -12,15 +13,18 @@
 
 ## 🚀 Chi Sono
 
-Sviluppatore appassionato con una forte predilezione per la risoluzione di problemi complessi attraverso codice elegante ed efficiente. La mia esperienza spazia dall'architettura software enterprise ai sistemi a basso livello, sempre con un occhio attento alla qualità e alle best practices.
+Sviluppatore appassionato specializzato in **Intelligenza Artificiale** e **Computer Vision**, con una forte predilezione per la risoluzione di problemi complessi attraverso codice elegante ed efficiente. La mia esperienza spazia dall'architettura software enterprise ai sistemi a basso livello, con particolare focus su **Machine Learning** e **Deep Learning**.
+
+> *"Trasformo idee innovative in soluzioni tecnologiche concrete"*
 
 ```javascript
 const developer = {
     name: "Tobias Tesauri",
     location: "Italia 🇮🇹",
-    passion: ["Clean Code", "Problem Solving", "Innovation"],
-    currentlyLearning: ["Cloud Architecture", "DevOps", "AI/ML"],
-    askMeAbout: ["Software Architecture", "Performance Optimization", "Best Practices"]
+    specialization: ["AI/ML", "Computer Vision", "Full Stack Development"],
+    passion: ["Clean Code", "Innovation", "Problem Solving", "Deep Learning"],
+    currentlyLearning: ["Advanced Neural Networks", "Cloud Architecture", "DevOps"],
+    askMeAbout: ["YOLOv8", "Computer Vision", "Software Architecture", "AI Implementation"]
 };
 ```
 
@@ -31,12 +35,19 @@ const developer = {
 <div align="center">
 
 ### 💻 Linguaggi di Programmazione
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-000000?style=for-the-badge&logo=ultralytics&logoColor=white)
 
 ### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -74,16 +85,16 @@ const developer = {
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=tokyonight)](https://github.com/TobiasTesauri/R.I.C.O)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=formaggi-repository&theme=tokyonight)](https://github.com/TobiasTesauri/formaggi-repository)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=formaggi&theme=tokyonight)](https://tobiastesauri.github.io/formaggi/)
 
 </div>
 
 ### 🏆 Progetti Significativi
 
-| Progetto | Descrizione | Tech Stack |
-|----------|-------------|------------|
-| **[R.I.C.O](https://github.com/TobiasTesauri/R.I.C.O)** | Intelligenza Artificiale avanzata sviluppata con versione modificata di YOLOv8 per riconoscimento e classificazione oggetti | `Python` `YOLOv8` `Computer Vision` `AI/ML` |
-| **[Formaggi Repository](https://github.com/TobiasTesauri/formaggi-repository)** | Sito web completo dedicato alla catalogazione e gestione di una repository di formaggi | `HTML5` `CSS3` `JavaScript` |
+| Progetto | Descrizione | Tech Stack | Live Demo |
+|----------|-------------|------------|-----------|
+| **[R.I.C.O](https://github.com/TobiasTesauri/R.I.C.O)** | 🤖 Intelligenza Artificiale avanzata per riconoscimento oggetti con YOLOv8 modificato | `Python` `YOLOv8` `Computer Vision` `Deep Learning` | - |
+| **[Formaggi Repository](https://tobiastesauri.github.io/formaggi/)** | 🧀 Sito web interattivo per catalogazione e gestione repository formaggi | `HTML5` `CSS3` `JavaScript` `Responsive Design` | [🌐 Live](https://tobiastesauri.github.io/formaggi/) |
 
 ---
 
@@ -96,43 +107,78 @@ const developer = {
 
 ## 🎨 Filosofia di Sviluppo
 
-> *"Il codice è poesia scritta per essere letta da umani e eseguita da macchine"*
+<div align="center">
 
-- **Clean Code**: Codice leggibile, manutenibile e ben documentato
-- **Testing**: TDD e copertura completa dei test
-- **Performance**: Ottimizzazione continua e profiling accurato
-- **Sicurezza**: Security by design in ogni fase di sviluppo
-- **Collaborazione**: Code review e pair programming
+```python
+class TobiasPhilosophy:
+    def __init__(self):
+        self.motto = "L'innovazione nasce dalla fusione di creatività e tecnologia"
+        self.principles = [
+            "🎯 AI-First Approach",
+            "🔬 Research-Driven Development", 
+            "⚡ Performance & Optimization",
+            "🛡️ Security by Design",
+            "🤝 Collaborative Innovation"
+        ]
+    
+    def get_approach(self):
+        return {
+            "clean_code": "Codice leggibile e manutenibile",
+            "testing": "TDD con copertura completa",
+            "ai_integration": "ML/DL in ogni soluzione possibile",
+            "continuous_learning": "Sempre aggiornato sulle ultime tecnologie"
+        }
+```
+
+</div>
+
+> *"Il futuro appartiene a chi sa combinare l'intelligenza artificiale con la creatività umana"*
 
 ---
 
-## 🌟 Fun Facts
+## 🌟 Fun Facts & Interests
+
+<div align="center">
 
 ```python
-class Developer:
+class TobiasTesauri:
     def __init__(self):
         self.name = "Tobias Tesauri"
         self.coffee_cups_per_day = "∞"
-        self.favorite_editor = "VS Code"
-        self.debugging_style = "Rubber Duck"
+        self.favorite_technologies = ["Python", "YOLOv8", "Neural Networks"]
+        self.debugging_philosophy = "Rubber Duck + AI Assistant"
+        self.current_obsession = "Computer Vision & Deep Learning"
         
     def get_superpower(self):
-        return "Trasformare caffè in codice funzionante"
+        return "Trasformare dati grezzi in intelligenza artificiale"
         
     def when_not_coding(self):
-        return ["🎮 Gaming", "📚 Tech Books", "🏃‍♂️ Running", "🎵 Music"]
+        return {
+            "🎮": "Gaming & Game Development",
+            "🤖": "AI Research Papers",
+            "🧀": "Cheese Tasting (obviously!)",
+            "📱": "Tech News & Innovations",
+            "🏃‍♂️": "Running algorithms... and marathons"
+        }
+    
+    def life_motto(self):
+        return "Code. Learn. Innovate. Repeat. 🔄"
 ```
+
+</div>
 
 ---
 
 ## 📫 Contattami
 
-Sono sempre interessato a nuove opportunità e collaborazioni interessanti!
+Sempre aperto a nuove opportunità, collaborazioni innovative e discussioni tecniche!
 
 <div align="center">
 
 📧 **Email**: failgamerit@gmail.com  
-📱 **Telegram**: [@tuousername](https://t.me/tuousername)
+📱 **WhatsApp**: [+39 351 550 7405](https://wa.me/393515507405)
+
+### 💬 *"Hai un progetto interessante? Parliamone!"*
 
 </div>
 
@@ -140,11 +186,14 @@ Sono sempre interessato a nuove opportunità e collaborazioni interessanti!
 
 <div align="center">
 
-### ⭐ Se i miei progetti ti sono utili, lascia una stella!
+### ⭐ Se i miei progetti ti ispirano, lascia una stella!
 
-**Grazie per aver visitato il mio profilo! 🚀**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+**Grazie per aver visitato il mio universo digitale! 🚀✨**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=TobiasTesauri&color=brightgreen&style=flat-square)
+[![Profile Views](https://visitcount.itsvg.in/api?id=TobiasTesauri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
