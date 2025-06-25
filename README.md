@@ -1,183 +1,230 @@
-# 👋 Ciao, sono Tobias Tesauri
+# 👨‍💻 Tobias Tesauri
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&background=0F172A&center=true&vCenter=true&width=500&lines=🎓+Aspirante+Ingegnere+STEM;🧠+AI+%26+Computer+Vision+Enthusiast;💻+Autodidatta+e+Sviluppatore)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D9FF&background=0A0E27&center=true&vCenter=true&width=600&lines=🎓+Future+STEM+Engineer;🤖+AI+%26+Computer+Vision+Specialist;⚡+Self-Taught+Developer;🚀+Innovation+Through+Code)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome&fontSize=40&fontColor=E1E7EF&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Innovation&descAlignY=55&descSize=15&descColor=94A3B8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,46,59&height=250&section=header&text=Welcome%20to%20My%20Universe&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Dove%20l'Intelligenza%20Artificiale%20incontra%20l'Innovazione&descAlignY=58&descSize=18&descColor=00D9FF"/>
 
-[![Email](https://img.shields.io/badge/📧_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=7DD3FC&labelColor=1E293B)](mailto:failgamerit@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-0F172A?style=for-the-badge&logo=whatsapp&logoColor=7DD3FC&labelColor=1E293B)](https://wa.me/393515507405)
+[![Email](https://img.shields.io/badge/📧_Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=1A1B3A)](mailto:failgamerit@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-0A0E27?style=for-the-badge&logo=whatsapp&logoColor=00D9FF&labelColor=1A1B3A)](https://wa.me/393515507405)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TobiasTesauri&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🎓 Chi Sono
+## 🧬 DNA Digitale
 
-Appassionato autodidatta di **Intelligenza Artificiale** e **Computer Vision**, con l'obiettivo di intraprendere un percorso di studi STEM. Dedico gran parte del mio tempo allo studio autonomo e allo sviluppo di progetti pratici che combinano teoria e applicazioni concrete.
+<div align="center">
 
-Attraverso lo studio indipendente e la sperimentazione continua, sto costruendo una solida base di conoscenze in machine learning e computer vision, preparandomi per il futuro percorso universitario in ingegneria.
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  currentMission: string;
+  passions: string[];
+  learningPath: string[];
+  futureGoals: string[];
+  mindset: string;
+}
 
-```python
-const profile = {
-    name: "Tobias Tesauri",
-    location: "Italia 🇮🇹",
-    status: "Autodidatta appassionato",
-    aspiration: "Futuro studente STEM",
-    focus: ["🤖 Artificial Intelligence", "👁️ Computer Vision", "💻 Software Development"],
-    current_learning: ["🧠 Machine Learning", "📊 Data Science", "⚙️ Programming Fundamentals"],
-    study_method: "Autoapprendimento + Progetti pratici",
-    goal: "Eccellere negli studi STEM e specializzarmi in AI"
+const tobias: Developer = {
+  name: "Tobias Tesauri",
+  location: "🇮🇹 Italia, Torino",
+  currentMission: "Mastering AI & Computer Vision through self-directed learning",
+  passions: [
+    "🤖 Artificial Intelligence",
+    "👁️ Computer Vision", 
+    "🧠 Machine Learning",
+    "⚡ Deep Learning",
+    "🔬 Research & Innovation"
+  ],
+  learningPath: [
+    "📊 Advanced Mathematics & Statistics",
+    "🐍 Python Ecosystem Mastery",
+    "🔥 PyTorch & TensorFlow Deep Dive",
+    "📡 MLOps & Production Systems",
+    "💡 Algorithm Design & Optimization"
+  ],
+  futureGoals: [
+    "🎓 Excel in STEM University Studies",
+    "🏆 Contribute to Open Source AI Projects",
+    "🚀 Build Revolutionary AI Applications",
+    "📚 Publish Research in Computer Vision"
+  ],
+  mindset: "Continuous learning + Practical implementation = Innovation"
 };
 ```
 
+</div>
+
 ---
 
-## 🛠️ Stack Tecnologico
+## ⚡ Arsenale Tecnologico
 
 <div align="center">
 
-### 💻 Linguaggi di Programmazione
-![Python](https://img.shields.io/badge/🐍_Python-0F172A?style=for-the-badge&logo=python&logoColor=7DD3FC&labelColor=1E293B)
-![Java](https://img.shields.io/badge/☕_Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=7DD3FC&labelColor=1E293B)
-![JavaScript](https://img.shields.io/badge/⚡_JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=7DD3FC&labelColor=1E293B)
-![C#](https://img.shields.io/badge/🎯_C%23-0F172A?style=for-the-badge&logo=c-sharp&logoColor=7DD3FC&labelColor=1E293B)
-![C](https://img.shields.io/badge/🔧_C-0F172A?style=for-the-badge&logo=c&logoColor=7DD3FC&labelColor=1E293B)
+### 🔥 Core Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-0A0E27?style=for-the-badge&logo=python&logoColor=00D9FF&labelColor=1A1B3A)
+![Java](https://img.shields.io/badge/Java-0A0E27?style=for-the-badge&logo=openjdk&logoColor=00D9FF&labelColor=1A1B3A)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0E27?style=for-the-badge&logo=javascript&logoColor=00D9FF&labelColor=1A1B3A)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0E27?style=for-the-badge&logo=typescript&logoColor=00D9FF&labelColor=1A1B3A)
+![C#](https://img.shields.io/badge/C%23-0A0E27?style=for-the-badge&logo=c-sharp&logoColor=00D9FF&labelColor=1A1B3A)
+![C](https://img.shields.io/badge/C-0A0E27?style=for-the-badge&logo=c&logoColor=00D9FF&labelColor=1A1B3A)
 
-### 🧠 AI/ML e Computer Vision
-![TensorFlow](https://img.shields.io/badge/🤖_TensorFlow-1E293B?style=for-the-badge&logo=tensorflow&logoColor=7DD3FC&labelColor=0F172A)
-![PyTorch](https://img.shields.io/badge/🔥_PyTorch-1E293B?style=for-the-badge&logo=pytorch&logoColor=7DD3FC&labelColor=0F172A)
-![OpenCV](https://img.shields.io/badge/👁️_OpenCV-1E293B?style=for-the-badge&logo=OpenCV&logoColor=7DD3FC&labelColor=0F172A)
-![Ultralytics](https://img.shields.io/badge/⚡_Ultralytics-1E293B?style=for-the-badge&logo=ultralytics&logoColor=7DD3FC&labelColor=0F172A)
+### 🧠 AI/ML Powerhouse
+![PyTorch](https://img.shields.io/badge/PyTorch-1A1B3A?style=for-the-badge&logo=pytorch&logoColor=00D9FF&labelColor=0A0E27)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1B3A?style=for-the-badge&logo=tensorflow&logoColor=00D9FF&labelColor=0A0E27)
+![OpenCV](https://img.shields.io/badge/OpenCV-1A1B3A?style=for-the-badge&logo=opencv&logoColor=00D9FF&labelColor=0A0E27)
+![Ultralytics](https://img.shields.io/badge/YOLO-1A1B3A?style=for-the-badge&logo=ultralytics&logoColor=00D9FF&labelColor=0A0E27)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-1A1B3A?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF&labelColor=0A0E27)
+![NumPy](https://img.shields.io/badge/NumPy-1A1B3A?style=for-the-badge&logo=numpy&logoColor=00D9FF&labelColor=0A0E27)
+![Pandas](https://img.shields.io/badge/Pandas-1A1B3A?style=for-the-badge&logo=pandas&logoColor=00D9FF&labelColor=0A0E27)
 
-### 🌐 Sviluppo Web
-![HTML5](https://img.shields.io/badge/🏠_HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=7DD3FC&labelColor=1E293B)
-![CSS3](https://img.shields.io/badge/🎨_CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=7DD3FC&labelColor=1E293B)
-
-### 🛠️ Tools e Ambiente
-![Git](https://img.shields.io/badge/📚_Git-1E293B?style=for-the-badge&logo=git&logoColor=7DD3FC&labelColor=0F172A)
-![VS Code](https://img.shields.io/badge/💻_VS_Code-1E293B?style=for-the-badge&logo=visual-studio-code&logoColor=7DD3FC&labelColor=0F172A)
-![IntelliJ](https://img.shields.io/badge/🧠_IntelliJ-1E293B?style=for-the-badge&logo=intellij-idea&logoColor=7DD3FC&labelColor=0F172A)
+### 🛠️ Development Ecosystem
+![Git](https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=00D9FF&labelColor=1A1B3A)
+![VS Code](https://img.shields.io/badge/VS_Code-0A0E27?style=for-the-badge&logo=visual-studio-code&logoColor=00D9FF&labelColor=1A1B3A)
+![PyCharm](https://img.shields.io/badge/PyCharm-0A0E27?style=for-the-badge&logo=pycharm&logoColor=00D9FF&labelColor=1A1B3A)
+![Jupyter](https://img.shields.io/badge/Jupyter-0A0E27?style=for-the-badge&logo=jupyter&logoColor=00D9FF&labelColor=1A1B3A)
+![Docker](https://img.shields.io/badge/Docker-0A0E27?style=for-the-badge&logo=docker&logoColor=00D9FF&labelColor=1A1B3A)
 
 </div>
 
 ---
 
-## 📊 Statistiche GitHub
+## 📊 Performance Analytics
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=1A1B3A&border_radius=15&card_width=400">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TobiasTesauri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=1A1B3A&border_radius=15&card_width=400"/>
 </picture>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTesauri&layout=compact&langs_count=8&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&border_color=334155&border_radius=10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTesauri&layout=compact&langs_count=8&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&border_color=334155&border_radius=10"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTesauri&layout=compact&langs_count=10&theme=transparent&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&border_color=1A1B3A&border_radius=15&card_width=400">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasTesauri&layout=compact&langs_count=10&theme=transparent&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&border_color=1A1B3A&border_radius=15&card_width=400"/>
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TobiasTesauri&theme=transparent&background=00000000&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakNum=E1E7EF&sideNums=E1E7EF&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=94A3B8&border=334155&border_radius=10">
-  <img src="https://streak-stats.demolab.com/?user=TobiasTesauri&theme=transparent&background=00000000&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakNum=E1E7EF&sideNums=E1E7EF&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=94A3B8&border=334155&border_radius=10"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TobiasTesauri&theme=transparent&background=0A0E27&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=CCCCCC&border=1A1B3A&border_radius=15">
+  <img src="https://streak-stats.demolab.com/?user=TobiasTesauri&theme=transparent&background=0A0E27&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=CCCCCC&border=1A1B3A&border_radius=15"/>
 </picture>
 
 </div>
 
 ---
 
-## 🚀 Progetti Principali
+## 🚀 Progetti Stellari
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10"/>
-</picture>
+### 🌟 Repository in Evidenza
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=formaggi&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=formaggi&theme=transparent&bg_color=00000000&title_color=7DD3FC&text_color=E1E7EF&icon_color=7DD3FC&border_color=334155&border_radius=10"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=Aicraft&theme=transparent&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=1A1B3A&border_radius=15">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=Aicraft&theme=transparent&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=1A1B3A&border_radius=15"/>
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=transparent&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=1A1B3A&border_radius=15">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasTesauri&repo=R.I.C.O&theme=transparent&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=1A1B3A&border_radius=15"/>
 </picture>
 
 </div>
 
-### 🔬 Portfolio Progetti
+### 🛠️ Portfolio Completo
 
-| Progetto | Descrizione | Tecnologie | Status |
-|----------|-------------|------------|---------|
-| **[🤖 R.I.C.O](https://github.com/TobiasTesauri/R.I.C.O)** | Sistema di riconoscimento oggetti basato su YOLOv8 personalizzato | `Python` `YOLOv8` `Computer Vision` `Deep Learning` | In sviluppo |
-| **[🌐 Formaggi Repository](https://tobiastesauri.github.io/formaggi/)** | Web application per catalogazione e ricerca formaggi | `HTML5` `CSS3` `JavaScript` `Responsive Design` | [Live Demo](https://tobiastesauri.github.io/formaggi/) |
-
----
-
-## 🎯 Percorso di Autoapprendimento
-
-### 📚 Studio Autonomo
-- **Attuale**: Preparazione autonoma per l'ingresso nel mondo STEM
-- **Obiettivo**: Eccellere negli studi universitari futuri
-- **Specializzazione**: Sistemi intelligenti e computer vision
-
-### 🔬 Aree di Studio
-- **Machine Learning**: Algoritmi di apprendimento supervisionato e non supervisionato
-- **Computer Vision**: Object detection, image classification, image processing
-- **Deep Learning**: Reti neurali, CNN, architetture moderne
-- **Programming**: Sviluppo software e implementazione algoritmi
-
-### 💡 Competenze in Sviluppo
-- Implementazione pratica di algoritmi di ML
-- Sviluppo di progetti completi end-to-end
-- Comprensione teorica approfondita dei concetti
-- Capacità di problem-solving e debugging
+| 🎯 Progetto | 📝 Descrizione | 💻 Stack | 🔗 Status |
+|-------------|----------------|----------|----------|
+| **[🚀 Aicraft](https://github.com/TobiasTesauri/Aicraft)** | *"Welp that was fast"* - Progetto AI all'avanguardia | `Python` `AI/ML` `Innovation` | ⚡ Developing |
+| **[🤖 R.I.C.O](https://github.com/TobiasTesauri/R.I.C.O)** | Sistema avanzato di object detection con YOLOv8 custom-trained | `Python` `YOLOv8` `OpenCV` `Deep Learning` | 🚧 In sviluppo attivo |
+| **[🧀 Formaggi App](https://tobiastesauri.github.io/formaggi/)** | Web application interattiva per catalogazione formaggi italiani | `HTML5` `CSS3` `JavaScript` `PWA` | ✅ [Live Demo](https://tobiastesauri.github.io/formaggi/) |
+| **🔬 ML Experiments** | Collezione di esperimenti e algoritmi di machine learning | `Python` `Jupyter` `Scikit-learn` | 📚 Repository privato |
+| **👁️ Vision Pipeline** | Framework personalizzato per computer vision tasks | `Python` `OpenCV` `NumPy` | 🎯 Planning fase |
 
 ---
 
-## 📈 Metodologia di Studio
+## 🎓 Learning Journey 2025
 
 <div align="center">
+
+### 📚 Current Focus Areas
 
 ```python
-class LearningJourney:
+class LearningRoadmap2025:
     def __init__(self):
-        self.mindset = "💡 Precisione e innovazione nel codice"
-        self.current_focus = [
-            "📖 Studio teorico: Matematica, AI, Programmazione",
-            "💻 Progetti pratici: Computer Vision e ML", 
-            "🔬 Sperimentazione: Algoritmi e implementazioni",
-            "🛠️ Sviluppo: Applicazioni complete"
-        ]
-        
-    def study_routine(self):
-        return {
-            "theory_study": "📚 Studio quotidiano di concetti teorici",
-            "hands_on_coding": "⚡ Implementazione pratica e progetti",
-            "research_time": "🔍 Approfondimento di nuove tecnologie", 
-            "project_development": "🚀 Sviluppo continuo di soluzioni"
+        self.core_studies = {
+            "mathematics": ["Linear Algebra", "Calculus", "Statistics", "Discrete Math"],
+            "cs_fundamentals": ["Data Structures", "Algorithms", "System Design"],
+            "ai_specialization": ["Deep Learning Theory", "Computer Vision", "NLP Basics"],
+            "practical_skills": ["MLOps", "Production Deployment", "Code Architecture"]
         }
         
-    def learning_method(self):
-        return "🎯 Approccio sistematico: teoria + pratica + innovazione"
+        self.monthly_goals = {
+            "January": "✅ Advanced Python & Object Detection Mastery",
+            "February": "🎯 Mathematical Foundations Deep Dive", 
+            "March": "🔥 PyTorch Advanced Techniques",
+            "April": "📊 Statistics & Probability Theory",
+            "May": "🧠 Neural Networks Architecture Design",
+            "June": "🚀 Portfolio Projects Expansion"
+        }
+        
+        self.learning_methods = [
+            "📖 Theoretical Study (40%)",
+            "💻 Hands-on Coding (35%)", 
+            "🔬 Research & Experiments (15%)",
+            "🤝 Community Engagement (10%)"
+        ]
+    
+    def get_motivation(self):
+        return "🎯 Every line of code brings me closer to my STEM dreams!"
 ```
 
 </div>
 
 ---
 
-## 📞 Contatti
-
-*🤝 Interessato a collaborazioni, progetti condivisi o scambio di conoscenze?*
+## 🌟 Achievements & Milestones
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Let's%20Code%20Together&fontSize=20&fontColor=E1E7EF&animation=fadeIn&fontAlignY=50"/>
+### 🏆 2024-2025 Highlights
 
-📧 **Email**: failgamerit@gmail.com  
-📱 **WhatsApp**: [+39 351 550 7405](https://wa.me/393515507405)
+| 🎖️ Achievement | 📅 Date | 🎯 Impact |
+|----------------|---------|-----------|
+| 🤖 **First AI Project Launch** | Q4 2024 | Successful YOLOv8 implementation |
+| 📊 **100+ GitHub Contributions** | Ongoing | Consistent coding practice |
+| 🧠 **Self-Taught ML Mastery** | 2024 | From zero to intermediate level |
+| 🚀 **Production Web App** | Q1 2025 | Full-stack development skills |
+| 📚 **Open Source Contributions** | Target Q2 2025 | Community involvement |
 
-### 💬 Aperto a discussioni su AI, programmazione e innovazione tecnologica
+</div>
+
+---
+
+## 🎯 Mission Statement
+
+<div align="center">
+
+> *"Transforming curiosity into code, and code into innovation. My mission is to bridge the gap between theoretical AI knowledge and practical applications, preparing myself to become a future leader in STEM fields while contributing to the open-source community."*
+
+### 🌐 Connect With Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,33,46,59&height=120&section=footer&text=Let's%20Build%20the%20Future%20Together&fontSize=24&fontColor=FFFFFF&animation=blinking&fontAlignY=50"/>
+
+**📧 Email**: [failgamerit@gmail.com](mailto:failgamerit@gmail.com)  
+**📱 WhatsApp**: [+39 351 550 7405](https://wa.me/393515507405)  
+**💼 GitHub**: [TobiasTesauri](https://github.com/TobiasTesauri)
+
+### 💬 Sempre aperto a:
+- 🤝 Collaborazioni su progetti AI/ML
+- 💭 Discussioni tecniche e scambio di idee  
+- 🎓 Mentorship e peer learning
+- 🚀 Opportunità di stage e progetti
 
 </div>
 
@@ -185,16 +232,18 @@ class LearningJourney:
 
 <div align="center">
 
-### ⭐ Se i miei progetti ti interessano, lascia una stella! ⭐
+### ⭐ Se i miei progetti ti ispirano, lascia una stella! ⭐
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-**🚀 Grazie per aver visitato il mio profilo GitHub!**
+**🚀 Grazie per aver esplorato il mio universo digitale!**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TobiasTesauri&color=7dd3fc&style=flat-square&label=Visite+Profilo)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,46,59&height=120&section=footer&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn"/>
+*🌟 "The future belongs to those who learn, adapt, and innovate." - Tobias Tesauri*
 
-*Ultimo aggiornamento: 2025*
+---
+
+**📅 Last Updated**: June 2025 | **🔄 Status**: Actively Learning & Building
 
 </div>
